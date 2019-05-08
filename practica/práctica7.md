@@ -13,5 +13,8 @@ La extensión ( .exe, .dat, .jpg, .bat .doc) es opcional y puede no coincidir co
 Directorios
 
 Es un tipo especial de archivo que contiene el nombre de otros archivos y sus referencias.
+
 Url del commit
+https://github.com/VillaCode/SO-gp2/commit/8d73825c112eedb086ba3ca8663c48bb917ead60
+
 Que aprendí:
