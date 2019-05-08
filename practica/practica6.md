@@ -1,10 +1,10 @@
-Objetivo:
+##Objetivo:
 Investigar y practicar sobre hilos.
 
-Herramientas
+##Herramientas
 gcc git
 
-Conceptos:
+##Conceptos:
 Hilos
 
 Proceso ligero.
@@ -30,6 +30,8 @@ Condición de carrera. Ocurre cuando el resultado depende del orden en que se ej
 Deadlock: Cuando dos o mas hilos estan esperando por un recurso que no se libera.
 Productor/Consumidor: Ocurre cuando los datos se puede sobre-escribir.
 
-Url del commit
+##Url del commit: 
+https://github.com/VillaCode/SO-gp2/commit/7dc463fd5bfab7647999aa5cab0acbc366675181
+(no se porque le puse 23)
 
-Que aprendí:
+##Que aprendí:
