@@ -1,28 +1,28 @@
-#Objetivo:
+# Objetivo:
 Modificar un programa para que muestre un mensaje de bienvenida.
 
-#Conceptos
+# Conceptos
 
 1)Proceso
 
-+Instancia de un programa
-++Tiene tres partes:
-++Stack: Variables y las llamadas a funciones
-++Heap: Memoria dinàmica
-++Código
++ Instancia de un programa
+++ Tiene tres partes:
+++ Stack: Variables y las llamadas a funciones
+++ Heap: Memoria dinàmica
+++ Código
 
-+Se crea mediante dos llamdas al sistema
-++fork clone
-++exec cambia el código
++ Se crea mediante dos llamdas al sistema
+++ fork clone
+++ exec cambia el código
 
-+Tiene un estado:
-++Corriendo
-++Durmiendo
-++Espera
-++Completado
-++Zombie
++ Tiene un estado:
+++ Corriendo
+++ Durmiendo
+++ Espera
+++ Completado
+++ Zombie
 
-#Lo que aprendí
+# Lo que aprendí
 
 Hace treinta años existía algo llamado consoles, en donde había muchas terminales. Es un dispositivo creado vía software 
 en donde se visualiza lo que estas haciendo. Es un dispositivo virtual. Aprendí también la definciión de lo que es un
