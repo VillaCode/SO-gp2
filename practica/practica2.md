@@ -12,3 +12,4 @@ El proceso hijo manda a llamar a exec para ejecutar otro codigo
 
 
 Url del commit:
+https://github.com/VillaCode/SO-gp2/commit/b029edba57e7d215ee8304d09d9f769bdf2dfc1b
